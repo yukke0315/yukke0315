@@ -1,8 +1,8 @@
 # 👋 Hi there! I'm yukke0315.
 
 🎓 I'm a student and aspiring security engineer based in Japan.  
-🔒 I'm passionate about cybersecurity, CTFs, and web app development.  
-🌱 Currently learning about network. 
+🔒 Passionate about cybersecurity, CTFs, and web application development.  
+🌱 Currently learning about computer network. 
 
 ## 🛠 Tech Stack
 - Languages: C
