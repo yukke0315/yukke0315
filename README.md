@@ -4,6 +4,8 @@
 🔒 Passionate about cybersecurity, CTFs, and web application development.  
 🌱 Currently learning about computer network. 
 
+**やる気元気不足**
+
 ## 🛠 Tech Stack
 - Languages: C
 
