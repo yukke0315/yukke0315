@@ -6,8 +6,5 @@
 
 **やる気元気不足**
 
-## 🛠 Tech Stack
-- Languages: C
-
 ## 📫 Contact
 - Qiita: [@tennousu](https://qiita.com/tennousu)
